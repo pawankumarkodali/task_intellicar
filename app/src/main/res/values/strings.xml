@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">intellicar</string>
+    <string name="search_hint">Search Movie with title</string>
+    <string name="movie_title">Title:%1$s</string>
+    <string name="movie_actors">Actors:%1$s</string>
+    <string name="movie_language">Language:%1$s</string>
+    <string name="movie_rating">Rating:%1$s</string>
+    <string name="no_movies_found">No movies found with the given title</string>
+</resources>
